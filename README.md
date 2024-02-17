@@ -1,6 +1,7 @@
-[![tdhaussy's 42 stats](https://badge.mediaplus.ma/starryblue/tdhaussy?1337Badge=off&UM6P=off)]()
+[![tdhaussy's 42 stats](https://badge.mediaplus.ma/darkblue/tdhaussy?1337Badge=off&UM6P=off)]()
 
 <!--
+[![tdhaussy's 42 stats](https://badge.mediaplus.ma/starryblue/tdhaussy?1337Badge=off&UM6P=off)]()
 **Rreyth/Rreyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
